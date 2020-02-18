@@ -1,0 +1,15 @@
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.csproj.CoreCompileInputs.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.AssemblyInfoInputs.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.AssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\bin\Debug\netcoreapp2.1\APICORE.deps.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\bin\Debug\netcoreapp2.1\APICORE.runtimeconfig.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\bin\Debug\netcoreapp2.1\APICORE.runtimeconfig.dev.json
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\bin\Debug\netcoreapp2.1\APICORE.dll
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.csprojAssemblyReference.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.RazorAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.RazorAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.RazorTargetAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\bin\Debug\netcoreapp2.1\APICORE.pdb
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.dll
+C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\APICORE\obj\Debug\netcoreapp2.1\APICORE.pdb
