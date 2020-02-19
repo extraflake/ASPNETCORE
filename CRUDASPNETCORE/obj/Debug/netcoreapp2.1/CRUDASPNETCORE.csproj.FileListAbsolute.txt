@@ -33,3 +33,41 @@ C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\CRUDASPNE
 C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.dll
 C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.pdb
 C:\Users\NaufalAj\Documents\Visual Studio 2017\Projects\CRUDASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.csproj.CopyComplete
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.deps.json
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.runtimeconfig.json
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.runtimeconfig.dev.json
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.dll
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.pdb
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.Views.dll
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\CRUDASPNETCORE.Views.pdb
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.csprojAssemblyReference.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.RazorAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.RazorAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.AssemblyInfoInputs.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.AssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.TagHelpers.input.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.TagHelpers.output.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.RazorCoreGenerate.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.RazorTargetAssemblyInfo.cache
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.RazorTargetAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.Views.pdb
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.dll
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.pdb
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\CRUDASPNETCORE.csproj.CopyComplete
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\APICORE.dll
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\bin\Debug\netcoreapp2.1\APICORE.pdb
+C:\Users\NaufalAj\Documents\Git\ASPNETCORE\CRUDASPNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Religions\Index.g.cshtml.cs

@@ -50,15 +50,23 @@ namespace APICORE.Migrations
 
                     b.Property<string>("BirthDate");
 
+                    b.Property<DateTimeOffset>("CreateDate");
+
+                    b.Property<DateTimeOffset>("DeleteDate");
+
                     b.Property<string>("Email");
 
                     b.Property<string>("FirstName");
+
+                    b.Property<bool>("IsDelete");
 
                     b.Property<string>("LastName");
 
                     b.Property<string>("Phone");
 
                     b.Property<int>("Religion_Id");
+
+                    b.Property<DateTimeOffset>("UpdateDate");
 
                     b.HasKey("Id");
 
@@ -73,7 +81,15 @@ namespace APICORE.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<DateTimeOffset>("CreateDate");
+
+                    b.Property<DateTimeOffset>("DeleteDate");
+
+                    b.Property<bool>("IsDelete");
+
                     b.Property<string>("Name");
+
+                    b.Property<DateTimeOffset>("UpdateDate");
 
                     b.HasKey("Id");
 
@@ -86,7 +102,15 @@ namespace APICORE.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<DateTimeOffset>("CreateDate");
+
+                    b.Property<DateTimeOffset>("DeleteDate");
+
+                    b.Property<bool>("IsDelete");
+
                     b.Property<string>("Name");
+
+                    b.Property<DateTimeOffset>("UpdateDate");
 
                     b.HasKey("Id");
 

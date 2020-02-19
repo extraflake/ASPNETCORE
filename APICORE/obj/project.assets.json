@@ -12596,6 +12596,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.4.10",
@@ -12609,11 +12610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NaufalAj\\Documents\\Visual Studio 2017\\Projects\\CRUDASPNETCORE\\APICORE\\APICORE.csproj",
+      "projectUniqueName": "C:\\Users\\NaufalAj\\Documents\\Git\\ASPNETCORE\\APICORE\\APICORE.csproj",
       "projectName": "APICORE",
-      "projectPath": "C:\\Users\\NaufalAj\\Documents\\Visual Studio 2017\\Projects\\CRUDASPNETCORE\\APICORE\\APICORE.csproj",
+      "projectPath": "C:\\Users\\NaufalAj\\Documents\\Git\\ASPNETCORE\\APICORE\\APICORE.csproj",
       "packagesPath": "C:\\Users\\NaufalAj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NaufalAj\\Documents\\Visual Studio 2017\\Projects\\CRUDASPNETCORE\\APICORE\\obj\\",
+      "outputPath": "C:\\Users\\NaufalAj\\Documents\\Git\\ASPNETCORE\\APICORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12648,6 +12649,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",

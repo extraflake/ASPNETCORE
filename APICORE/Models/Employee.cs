@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using APICORE.Bases;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -8,10 +9,8 @@ using System.Threading.Tasks;
 
 namespace APICORE.Models
 {
-    public class Employee
+    public class Employee : BaseModel, IEntity
     {
-        [Key]
-        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string BirthDate { get; set; }
@@ -24,5 +23,7 @@ namespace APICORE.Models
         public virtual Religion Religions { get; set; }
         
         public virtual User User { get; set; }
+        [Key]
+        public int Id { get; set; }
     }
 }
