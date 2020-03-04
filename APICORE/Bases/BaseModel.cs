@@ -13,5 +13,6 @@ namespace APICORE.Bases
         public DateTimeOffset DeleteDate { get; set; }
 
         public bool IsDelete { get; set; }
+	// hello world
     }
 }
