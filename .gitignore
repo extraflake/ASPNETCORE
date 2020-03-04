@@ -1,0 +1,16 @@
+/.vs/CRUDASPNETCORE/DesignTimeBuild/.dtbcache
+/.vs/CRUDASPNETCORE/v15/.suo
+/.vs/CRUDASPNETCORE/v15/Server/sqlite3/storage.ide-shm
+/.vs/CRUDASPNETCORE/v15/Server/sqlite3/storage.ide-wal
+/APICORE/obj/APICORE.csproj.nuget.cache
+/APICORE/obj/APICORE.csproj.nuget.g.props
+/APICORE/obj/Debug/netcoreapp2.1/APICORE.assets.cache
+/APICORE/obj/Debug/netcoreapp2.1/APICORE.csproj.CoreCompileInputs.cache
+/APICORE/obj/Debug/netcoreapp2.1/APICORE.csprojAssemblyReference.cache
+/APICORE/obj/project.assets.json
+/CLIENTCORE/obj/CLIENTCORE.csproj.nuget.cache
+/CLIENTCORE/obj/CLIENTCORE.csproj.nuget.g.props
+/CLIENTCORE/obj/Debug/netcoreapp2.1/CLIENTCORE.assets.cache
+/CLIENTCORE/obj/Debug/netcoreapp2.1/CLIENTCORE.csproj.CoreCompileInputs.cache
+/CLIENTCORE/obj/Debug/netcoreapp2.1/CLIENTCORE.csprojAssemblyReference.cache
+/CLIENTCORE/obj/project.assets.json
